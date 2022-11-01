@@ -12,4 +12,4 @@ while (contador < 6):
    print("Regue a planta" , contador , "tomate")
    contador = contador + 2
 
-## André Moura, claudemir Oliveira, José Carlos Domingos.
+## André Moura, Claudemir Oliveira, José Carlos Domingos.
