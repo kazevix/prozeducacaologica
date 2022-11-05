@@ -1,0 +1,71 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMzTvjUCFwBSiNm1KpELfn6",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/kazevix/prozeducacaologica/blob/main/exercicio%20aula%204%20andares\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "wdLJlaQpioeU"
+      },
+      "outputs": [],
+      "source": [
+        "andares = 21\n",
+        "\n",
+        "\n",
+        "while andares > 0:\n",
+        "  andares = andares - 1\n",
+        "  if andares == 13:\n",
+        "   continue\n",
+        "  print(\"Você está no andar de número\",andares)\n",
+        "\n",
+        "  ##################################\n",
+        "\n",
+        "  \n",
+        "\n",
+        "  "
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "for cont in range(20,-1,-1):\n",
+        "  if cont == 13:\n",
+        "        pass\n",
+        "  else:\n",
+        "           print(\"Você está no andar de número\",cont)\n",
+        "\n",
+        "####################################################### "
+      ],
+      "metadata": {
+        "id": "HHtPdoRTdWGZ"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
