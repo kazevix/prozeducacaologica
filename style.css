@@ -1,0 +1,36 @@
+
+h1{text-align: midlle}
+
+div{ background-color: blue;
+  width: 100%;
+  pandding: 2px;
+  margin:10px;
+  border: 2px;
+  width: 100% }
+
+.caixa{
+  background-color: red;
+  width: 100%;
+}
+
+.id{
+  background-color: lightskyblue;
+  width: 100%;
+}
+
+#ultima-caixa{
+  background-color: lightpink;
+  width: 100%;
+}
+p{
+  width: 100%;
+  pandding: 2px;
+  margin:10px;
+  border: 2px;
+  background-color: gold;
+}
+
+img{
+  align-content: middle;
+}
+
